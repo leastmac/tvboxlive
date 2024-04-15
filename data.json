@@ -1,0 +1,54 @@
+{
+    "spider": "",
+    "wallpaper": "",
+    "lives": [
+        {
+            "name": "",
+            "type": 0,
+            "playerType": 1,
+            "boot": false,
+            "timeout": 5,
+            "url": ""
+        }
+    ],
+    "sites": [
+        {
+            "key": "",
+            "name": "TVBOX",
+            "type": 3,
+            "api": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        }
+    ],
+    "doh": [
+        {
+            "name": "",
+            "url": "",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "",
+            "type": 0,
+            "url": ""
+        }
+    ],
+    "rules": [
+        {
+            "name": "",
+            "hosts": [
+                ""
+            ]
+        }
+    ],
+    "ads": [
+        ""
+    ]
+}
